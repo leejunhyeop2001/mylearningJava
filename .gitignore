@@ -1,0 +1,11 @@
+# Java 컴파일 파일
+*.class
+
+# 라이브러리 및 빌드 폴더
+bin/
+out/
+
+# IDE 설정 (VS Code, IntelliJ 등)
+.vscode/
+.idea/
+*.iml
